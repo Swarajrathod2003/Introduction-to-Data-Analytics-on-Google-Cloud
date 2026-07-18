@@ -3,7 +3,7 @@
 > **Course:** Introduction to Data Analytics on Google Cloud  
 > **Learning Path:** Data Analyst (Google Skills)
 
-📄 **Full Notes:** [`assets/day-01-notes.pdf`](assets/day-01-notes.pdf)  
+
 This README contains the markdown version of my study notes for quick reading and GitHub search.
 
 ---
