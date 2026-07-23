@@ -20,6 +20,7 @@ Each day includes:
 | 02 | Explore Data and Extract Insights Using BigQuery – Architecture, Data Hierarchy, Slots & Hands-on Lab | ✅ Complete |
 | 03 | Make Data-Driven Decisions Using Looker – Explores, Dimensions & Measures, Visualizations, Looker Studio & Sharing Data | ✅ Complete |
 | 04 | BigQuery for Data Analysts – Data Roles, Cloud Analytics, On-Demand Scalability, Decoupled Storage & Compute, BigQuery Architecture, Enterprise Data Warehouse, Serverless Analytics & End-to-End Analytics Workflow | ✅ Complete |
+| 05 | Exploring & Preparing Your Data with BigQuery – Data Exploration, SQL Query Basics, Built-in Functions, Data Types, NULL Handling, CTEs, UNION, JOINs, BigQuery Structure & Pricing, Hands-on E-commerce Lab | ✅ Complete |
 
 > **This table is updated after every learning session. Check back for new entries!**
 
@@ -35,6 +36,7 @@ gcp-data-analytics-journal/
 │   ├── day-02-notes.pdf
 │   ├── day-03-notes.pdf
 │   ├── day-04-notes.pdf
+│   ├── day-05-notes.pdf
 │   └── ...
 ```
 
